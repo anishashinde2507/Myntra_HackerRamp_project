@@ -1,0 +1,18 @@
+[
+    {
+      "id": "1",
+      "category": "tops",
+      "image_url": "https://example.com/tops1.jpg",
+      "brand_name": "Brand A",
+      "description": "Stylish top for everyday wear"
+    },
+    {
+      "id": "2",
+      "category": "jeans",
+      "image_url": "https://example.com/jeans1.jpg",
+      "brand_name": "Brand B",
+      "description": "Comfortable jeans for casual looks"
+    }
+  
+  ]
+  
